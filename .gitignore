@@ -5,7 +5,6 @@ Upgrade_Source/
 target/
 classpath/
 
-Original_Source.zip
 *.log
 .DS_Store
 debug.*
