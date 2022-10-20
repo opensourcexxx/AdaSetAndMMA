@@ -1,0 +1,12 @@
+Development_Source/
+Original_Source/
+Upgrade_Source/
+.idea/
+target/
+classpath/
+
+Original_Source.zip
+*.log
+.DS_Store
+debug.*
+info.*
